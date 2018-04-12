@@ -1783,6 +1783,29 @@ body {
   color: #ff4300;
   text-align: center;
 }
+.cid-qOXozpZshh {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1440x1080.jpg");
+}
+.cid-qOXozpZshh .mbr-text {
+  color: #edb700;
+  text-align: left;
+}
+.cid-qOXozpZshh h4 {
+  text-align: center;
+}
+.cid-qOXozpZshh p {
+  text-align: center;
+}
+.cid-qOXozpZshh .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qOXozpZshh .card-title,
+.cid-qOXozpZshh .card-img {
+  color: #ff4300;
+}
 .cid-qNJNsCsqRH {
   background: #ffffff;
 }
